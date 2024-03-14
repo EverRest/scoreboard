@@ -6,6 +6,6 @@
 
 ## Local Set UP
 
-- git clone {repository}
-- cd scoreboard
-- ./vendor/bin/phpunit ./tests
+- `git clone {repository}`
+- `cd scoreboard`
+- run tests `./vendor/bin/phpunit ./tests`
