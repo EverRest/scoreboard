@@ -1,0 +1,17 @@
+{
+    "name": "pavlo.medynskyi/scoreboard",
+    "autoload": {
+        "psr-4": {
+            "PavloMedynskyi\\Scoreboard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EverRest",
+            "email": "medynskyypavlo@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
